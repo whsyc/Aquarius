@@ -1,0 +1,2 @@
+# Aquarius
+Huffman encoder/decoder
